@@ -1,0 +1,13 @@
+body {
+    background-color: #D6DCDE;
+    background-image: url("../assets/img/login-bg.png");
+    background-position: bottom;  
+    background-repeat: no-repeat;
+    background-attachment: scroll; 
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+.form-outline input {
+    border-radius: 5px;
+}
